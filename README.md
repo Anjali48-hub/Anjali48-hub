@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anjali48-hub
-- 👀 I’m interested in learning new technologies..
+- 👀 I am starting to learn AI from Scratch
 
 
 
